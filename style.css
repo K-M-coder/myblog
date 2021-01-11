@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .bookimg {
@@ -94,4 +95,13 @@ color: black;
 }
 .link:hover{
 background-color: deepskyblue;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.Articles:hover{
+    color: crimson;
 }
