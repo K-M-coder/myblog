@@ -105,3 +105,12 @@ a{
 .Articles:hover{
     color: crimson;
 }
+img{
+    transition: transform .2s;
+    border: solid;
+    border-color: black;
+}
+img:hover{
+ transform: scale(0.9);   
+}
+
